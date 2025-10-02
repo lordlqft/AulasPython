@@ -1,0 +1,33 @@
+--------------------- Indo para à escola ---------------------
+|                                                            |
+|   1. Acordar                                               |
+|   2. Levantar da cama                                      |
+|   3. Andar até o banheiro                                  |
+|   4. Escovar os dentes                                     |
+|   5. Andar até a cozinha                                   |
+|   6. Pegar um prato                                        |
+|   7. Preparar minha comida                                 |
+|   8. Comer a comida                                        |
+|   9. Andar até o quarto                                    |
+|   10. Trocar a roupa de dormir para o uniforme escolar     |
+|   11. Pegar minha mochila                                  |
+|   12. Abrir a mochila                                      |
+|   13. Colocar os materiais na mochila                      |
+|   14. Fechar a mochila                                     |
+|   15. Pegar a chave de casa                                |
+|   16. Andar até a porta                                    |
+|   17. Abrir a porta                                        |
+|   18. Sair de casa                                         |
+|   19. Fechar a porta                                       |
+|   20. Esperar o ônibus                                     |
+|   21. Subir no ônibus                                      |
+|   22. Chegar na escola.                                    |
+|   23. Sair do ônibus                                       |
+|   24. Entrar na escola                                     |
+|   25. Ir até a fila                                        |
+|   26. Esperar o professor chamar para a sala de aula       |
+|   27. Ir até a minha sala                                  |
+|   28. Entrar na sala de aula                               |
+|   29. Estudar                                              |
+--------------------------------------------------------------
+
